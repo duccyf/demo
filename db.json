@@ -2,13 +2,13 @@
   "rescuePuzzle": {
     "showBannerAds": false,
     "showNewNameLogo": false,
-    "nameLogo": "Game_Logo_red",
+    "nameLogo": "Game_Logo_red"
   },
   "rescueThePricess": {
     "showBannerAds": false,
     "countShowAds": 2
   },
   "test": {
-    
+
   }
 }
